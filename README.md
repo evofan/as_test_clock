@@ -36,6 +36,11 @@ Use assete.
 
 **Spark project TeraClock**  
 [http://www.libspark.org/wiki/trick7/TeraClock](http://www.libspark.org/wiki/trick7/TeraClock)  
->TeraClock?とは  
-
 Use library.  
+
+**Adobe AIR SDK from HARMAN**  
+[https://airsdk.harman.com/download](https://airsdk.harman.com/download)  
+>AIR SDK for Windows - (33.1.1.259)  
+
+**Air on Adobe Support Community**  
+[https://community.adobe.com/t5/air/bd-p/air?page=1&sort=latest_replies&filter=all&profile.language=en](https://community.adobe.com/t5/air/bd-p/air?page=1&sort=latest_replies&filter=all&profile.language=en)  
